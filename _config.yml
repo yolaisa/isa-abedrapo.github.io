@@ -6,8 +6,7 @@ description: >-
 url: "https://yolaisa.github.io"
 baseurl: "/isa-abedrapo.github.io"
 
-# Build settings
-markdown: kramdown
+# Usar la versión remota oficial del tema
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
 plugins:
@@ -17,7 +16,7 @@ plugins:
 
 author:
   name   : "Isabel Abedrapo Rosen"
-  avatar : "/assets/images/isa.jpg" # Puedes cambiar esto luego
+  avatar : "/assets/images/isa.png" # Cambia si tu imagen se llama distinto
   bio    : "Investigadora y consultora independiente. ORCID: 0000-0001-9990-0436"
   location: "Chile"
   links:
@@ -34,11 +33,7 @@ author:
       icon: "ai ai-zenodo"
       url: "https://zenodo.org/search?page=1&size=20&q=Isabel%20Abedrapo"
 
-permalink: /:title/
-paginate: 5
-paginate_path: /page:num/
-
-# Navigation
+# Navegación del menú superior
 header_pages:
   - index.md
   - about.md
@@ -46,3 +41,8 @@ header_pages:
   - charlas.md
   - contacto.md
   - opinion.md
+
+# Otros ajustes
+permalink: /:title/
+paginate: 5
+paginate_path: /page:num/
