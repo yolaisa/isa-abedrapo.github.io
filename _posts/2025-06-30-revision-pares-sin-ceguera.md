@@ -1,7 +1,7 @@
 ---
 title: "Revisión por pares sin ceguera: practicando la ciencia abierta"
 date: 2025-06-30
-layout: single
+layout: page
 categories: [Opinión]
 author_profile: true
 read_time: true
