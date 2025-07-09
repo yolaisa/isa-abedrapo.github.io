@@ -1,7 +1,7 @@
 title: "Isabel Abedrapo Rosen"
 description: "Bibliotecaria documentalista, magíster en ciencia de datos. Opinión, publicaciones y ciencia abierta."
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-leap-day
 
 plugins:
   - jekyll-feed
