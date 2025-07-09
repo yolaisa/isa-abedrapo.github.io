@@ -1,0 +1,47 @@
+title: "Isabel Abedrapo Rosen"
+email: "isa.abedrapo@gmail.com"
+description: >- 
+  Sitio personal de Isabel Abedrapo Rosen. Bibliotecaria documentalista, magíster en ciencia de datos, investigadora y consultora en ciencia abierta e infraestructuras de investigación.
+
+url: "https://yolaisa.github.io"
+baseurl: "/isa-abedrapo.github.io"
+
+# Build settings
+markdown: kramdown
+theme: minimal-mistakes-jekyll
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+author:
+  name   : "Isabel Abedrapo Rosen"
+  avatar : "/assets/images/isa.jpg" # Puedes cambiar esto luego
+  bio    : "Investigadora y consultora independiente. ORCID: 0000-0001-9990-0436"
+  location: "Chile"
+  links:
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:isa.abedrapo@gmail.com"
+    - label: "ORCID"
+      icon: "ai ai-orcid"
+      url: "https://orcid.org/0000-0001-9990-0436"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/yolaisa"
+    - label: "Zenodo"
+      icon: "ai ai-zenodo"
+      url: "https://zenodo.org/search?page=1&size=20&q=Isabel%20Abedrapo"
+
+permalink: /:title/
+paginate: 5
+paginate_path: /page:num/
+
+# Navigation
+header_pages:
+  - index.md
+  - about.md
+  - publicaciones.md
+  - charlas.md
+  - contacto.md
+  - opinion.md
