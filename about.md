@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: default
 title: "Sobre mí"
-permalink: /sobre-mi/
+permalink: /about/
 ---
 
 Soy investigadora y consultora en ciencia abierta, bibliotecaria de formación y magíster en ciencia de datos. Me interesan especialmente los temas relacionados con la trazabilidad del conocimiento, la gobernanza de datos y el desarrollo de infraestructuras digitales públicas.

@@ -1,6 +1,6 @@
 ---
-layout: single
-title: "Charlas y ponencias"
+layout: default
+title: "Charlas"
 permalink: /charlas/
 ---
 

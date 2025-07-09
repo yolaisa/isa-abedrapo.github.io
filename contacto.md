@@ -1,9 +1,8 @@
 ---
-layout: single
+layout: default
 title: "Contacto"
 permalink: /contacto/
 ---
-
 Puedes escribirme a [isa.abedrapo@gmail.com](mailto:isa.abedrapo@gmail.com)  
 ORCID: [0000-0001-9990-0436](https://orcid.org/0000-0001-9990-0436)  
 GitHub: [github.com/yolaisa](https://github.com/yolaisa)  
