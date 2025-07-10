@@ -2,13 +2,14 @@
 layout: post
 title: "Revisión por pares sin ceguera: practicando la ciencia abierta"
 date: 2025-06-30
-author: Isabel Abedrapo Rosen
 excerpt: "Reflexión personal sobre el proceso de publicación abierta en MetaROR y la revisión por pares sin anonimato."
-language: es
 ---
 
 ![La imagen de cabecera fue generada con asistencia de inteligencia artificial mediante ChatGPT (DALL·E).](/assets/images/pares-abiertos.png)
 
+**Por Isabel Abedrapo Rosen**  
+[ORCID: 0000-0001-9990-0436](https://orcid.org/0000-0001-9990-0436)  
+[LinkedIn](https://www.linkedin.com/in/isabelabedrapo)
 
 **A propósito del preprint recientemente publicado en MetaROR que escribimos junto a Ricardo Hartley Belmar y Pablo Sánchez Núñez, [*Open Science governance: the role of persistent identifiers and metadata standards*](https://metaror.org/kotahi/articles/100/index.html), quiero compartir la experiencia que nos llevó hasta ahí.**
 
