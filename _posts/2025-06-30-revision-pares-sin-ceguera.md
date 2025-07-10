@@ -5,11 +5,11 @@ date: 2025-06-30
 excerpt: "Reflexión personal sobre el proceso de publicación abierta en MetaROR y la revisión por pares sin anonimato."
 ---
 
-**Por Isabel Abedrapo Rosen**  
-[ORCID: 0000-0001-9990-0436](https://orcid.org/0000-0001-9990-0436)  
+**Por Isabel Abedrapo Rosen**\
+[ORCID: 0000-0001-9990-0436](https://orcid.org/0000-0001-9990-0436)\
 [LinkedIn](https://www.linkedin.com/in/isabelabedrapo)
 
-![La imagen de cabecera fue generada con asistencia de inteligencia artificial mediante ChatGPT (DALL·E).](/assets/images/pares-abiertos.png)
+![~*La\ imagen\ de\ cabecera\ fue\ generada\ con\ asistencia\ de\ inteligencia\ artificial\ mediante\ ChatGPT\ (DALL·E).*~](images/pares-abiertos.png)
 
 **A propósito del preprint recientemente publicado en MetaROR que escribimos junto a Ricardo Hartley Belmar y Pablo Sánchez Núñez, [*Open Science governance: the role of persistent identifiers and metadata standards*](https://metaror.org/kotahi/articles/100/index.html), quiero compartir la experiencia que nos llevó hasta ahí.**
 
@@ -30,7 +30,7 @@ El [preprint](https://doi.org/10.31219/osf.io/9h564_v3) plantea que **los identi
 
 ------------------------------------------------------------------------
 
-### Referencias citadas 
+### Referencias citadas
 
 -   Godlee, F. (2002). *Making reviewers visible: openness, accountability, and credit*. JAMA, 287(21), 2762–2765. <https://doi.org/10.1001/jama.287.21.2762>\
 -   Ross-Hellauer, T. (2017). *What is open peer review? A systematic review*. F1000Research, 6, 588. <https://doi.org/10.12688/f1000research.11369.2>
