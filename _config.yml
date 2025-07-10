@@ -1,20 +1,13 @@
-title: "Isabel Abedrapo Rosen"
-description: "Bibliotecaria documentalista, magíster en ciencia de datos. Opinión, publicaciones y ciencia abierta."
+title: "Columna de Isabel Abedrapo"
+description: "Revisión por pares sin ceguera"
 
-theme: jekyll-theme-leap-day
+theme: jekyll-theme-minimal
 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-
+  
 author:
   name: Isabel Abedrapo Rosen
   email: isa.abedrapo@gmail.com
 
-header_pages:
-  - index.md
-  - about.md
-  - publicaciones.md
-  - charlas.md
-  - contacto.md
-  - opinion.md
