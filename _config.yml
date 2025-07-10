@@ -7,7 +7,5 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   
-author:
-  name: Isabel Abedrapo Rosen
-  email: isa.abedrapo@gmail.com
+author:Isabel Abedrapo Rosen
 
