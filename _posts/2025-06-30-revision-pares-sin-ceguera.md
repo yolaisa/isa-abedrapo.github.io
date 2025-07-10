@@ -10,7 +10,7 @@ author: Isabel Abedrapo Rosen
 [ORCID: 0000-0001-9990-0436](https://orcid.org/0000-0001-9990-0436)\
 [LinkedIn](https://www.linkedin.com/in/isabelabedrapo)
 
-![Imagen de cabecera](/assets/images/pares-abiertos.png)
+(/assets/images/pares-abiertos.png)
 
 **A propósito del preprint recientemente publicado en MetaROR que escribimos junto a Ricardo Hartley Belmar y Pablo Sánchez Núñez, [*Open Science governance: the role of persistent identifiers and metadata standards*](https://metaror.org/kotahi/articles/100/index.html), quiero compartir la experiencia que nos llevó hasta ahí.**
 
