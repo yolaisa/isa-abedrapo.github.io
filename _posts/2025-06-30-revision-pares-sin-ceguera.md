@@ -4,6 +4,7 @@ title: "Revisión por pares sin ceguera: practicando la ciencia abierta"
 date: 2025-06-30
 author: Isabel Abedrapo Rosen
 excerpt: "Reflexión personal sobre el proceso de publicación abierta en MetaROR y la revisión por pares sin anonimato."
+language: es
 ---
 
 ![La imagen de cabecera fue generada con asistencia de inteligencia artificial mediante ChatGPT (DALL·E).](/assets/images/pares-abiertos.png)
