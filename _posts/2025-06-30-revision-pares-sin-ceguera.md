@@ -41,4 +41,4 @@ Por eso esta experiencia importa. Porque nos permite **practicar, y no solo teor
 -   Godlee, F. (2002). *Making reviewers visible: openness, accountability, and credit*. JAMA, 287(21), 2762–2765. <https://doi.org/10.1001/jama.287.21.2762>\
 -   Ross-Hellauer, T. (2017). *What is open peer review? A systematic review*. F1000Research, 6, 588. <https://doi.org/10.12688/f1000research.11369.2>
 
-^~*Imagen\ generada\ con\ asistencia\ de\ inteligencia\ artificial\ mediante\ ChatGPT\ (DALL·E).*~^
+*Nota: la imagen de cabecera fue generada con asistencia de inteligencia artificial utilizando la herramienta DALL·E de ChatGPT, basada en una descripción escrita por la autora.*
