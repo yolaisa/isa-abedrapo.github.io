@@ -27,7 +27,7 @@ Por eso esta experiencia importa. Porque nos permite **practicar, y no solo teor
 **Ahora el trabajo continúa…** implementaremos los comentarios recibidos, compartiremos una nueva versión del preprint, y quizá más adelante lo enviemos a una revista nuevamente. Pero incluso si no llegara a publicarse como artículo tradicional, ya estamos satisfechos con el valor que ha generado abrir este proceso.
 
 📄 **Puedes leer el preprint, los comentarios y la evaluación editorial en:**\
-👉 [**https://doi.org/10.70744/MetaROR.100.1.ea**](https://doi.org/10.70744/MetaROR.100.1.ea)
+👉 [https://doi.org/10.70744/MetaROR.100.1.ea](https://doi.org/10.70744/MetaROR.100.1.ea)
 
 ------------------------------------------------------------------------
 
