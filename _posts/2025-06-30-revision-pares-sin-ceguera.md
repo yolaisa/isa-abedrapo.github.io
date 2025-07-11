@@ -18,7 +18,7 @@ En ese punto decidimos hacer algo distinto. Nos alejamos del ciclo de envío \> 
 
 El [preprint](https://doi.org/10.31219/osf.io/9h564_v3) plantea que **los identificadores persistentes (PIDs) y los estándares de metadatos son mecanismos de gobernanza que configuran qué saberes se visibilizan, qué actores se reconocen y cómo circula el poder dentro del ecosistema científico.** La revisión por pares que recibimos no solo nos ayuda a fortalecer esos argumentos, sino que los convierte en parte de una conversación pública, situada, con la comunidad que trabaja estos temas. Los comentarios confirmaron que íbamos por buen camino con nuestra preocupación, el tema es relevante, actual y merece discusión.
 
-**MetaROR nos ha permitido experimentar lo que significa revisar sin anonimato, con responsabilidad mutua.** 
+MetaROR nos ha permitido experimentar lo que significa revisar sin anonimato, con responsabilidad mutua. 
 
 > Sin apertura no hay revisión verdaderamente justa, la revisión ciega tiende a perpetuar jerarquías al esconder la responsabilidad; en cambio, la revisión abierta construye diálogo real (Godlee, 2002; Ross-Hellauer, 2017).
 
