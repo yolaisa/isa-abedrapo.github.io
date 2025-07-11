@@ -3,9 +3,8 @@ layout: post
 title: "Revisión por pares sin ceguera: practicando la ciencia abierta"
 date: 2025-06-30
 excerpt: "Reflexión personal sobre el proceso de publicación abierta en MetaROR y la revisión por pares sin anonimato."
-#author: Isabel Abedrapo Rosen
+author: Isabel Abedrapo Rosen
 ---
-**Por Isabel Abedrapo Rosen**  
 [ORCID: 0000-0001-9990-0436](https://orcid.org/0000-0001-9990-0436)\
 [LinkedIn](https://www.linkedin.com/in/isabelabedrapo)
 
