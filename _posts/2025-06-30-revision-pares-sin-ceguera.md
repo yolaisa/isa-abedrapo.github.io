@@ -5,7 +5,7 @@ date: 2025-06-30
 excerpt: "Reflexión personal sobre el proceso de publicación abierta en MetaROR y la revisión por pares sin anonimato."
 author: Isabel Abedrapo Rosen
 tags:
-  - ciencia abierta
+  - prácticas de ciencia abierta
   - revisión por pares abierta
   - metainvestigación
 ---
