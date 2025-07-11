@@ -12,7 +12,7 @@ tags:
 [ORCID: 0000-0001-9990-0436](https://orcid.org/0000-0001-9990-0436)\
 [LinkedIn](https://www.linkedin.com/in/isabelabedrapo)
 
-![](https://yolaisa.github.io/isa-abedrapo.github.io/assets/images/pares-abiertos.png)
+![Imagen generada con asistencia de inteligencia artificial mediante ChatGPT (DALL·E).](https://yolaisa.github.io/isa-abedrapo.github.io/assets/images/pares-abiertos.png)
 
 **A propósito del preprint recientemente publicado en MetaROR que escribimos junto a Ricardo Hartley Belmar y Pablo Sánchez Núñez, [*Open Science governance: the role of persistent identifiers and metadata standards*](https://metaror.org/kotahi/articles/100/index.html), quiero compartir la experiencia que nos llevó hasta ahí.**
 
